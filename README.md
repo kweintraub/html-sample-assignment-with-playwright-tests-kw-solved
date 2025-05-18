@@ -26,7 +26,7 @@ This assignment should prove that a student is able to:
   - [x] Use `npm i` to install packages
   - [x] Use `npm run browser-install` to install the browser environment for testing
 - [x] All the tasks of the "Specific requirements" section MUST be solved
-- [ ] All the tests MUST pass. Fix the errors in case any tests don't pass BEFORE you submit (acceptance criteria)
+- [x] All the tests MUST pass. Fix the errors in case any tests don't pass BEFORE you submit (acceptance criteria)
   - [x] Use `npm run test` to run all tests in the terminal
   - [x] (Optional) Use `npm run test-ui` to run all the tests with GUI
   - [x] (Optional) Use `npm run show-report` to see the latest report in the browser
